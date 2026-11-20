@@ -1,0 +1,3387 @@
+{
+ "n_books": {
+  "goodreads": 135310,
+  "kindle": 131502,
+  "wattpad": 4236
+ },
+ "coverage": {
+  "loose": {
+   "goodreads": 0.737,
+   "kindle": 0.787,
+   "wattpad": 0.577
+  },
+  "strict": {
+   "goodreads": 0.233,
+   "kindle": 0.204,
+   "wattpad": 0.134
+  }
+ },
+ "shares": {
+  "Warrior / ruler (fantasy, sci-fi)": {
+   "goodreads_titles": 0.1203,
+   "goodreads_ratings": 0.1405,
+   "kindle_titles": 0.1569,
+   "kindle_ratings": 0.1693,
+   "wattpad_titles": 0.2884,
+   "wattpad_ratings": 0.0641,
+   "all_supply": 0.1386,
+   "all_demand": 0.1549,
+   "loose_supply": 0.1311,
+   "loose_demand": 0.1481
+  },
+  "Friend / ex / boy next door": {
+   "goodreads_titles": 0.1574,
+   "goodreads_ratings": 0.1475,
+   "kindle_titles": 0.1426,
+   "kindle_ratings": 0.1204,
+   "wattpad_titles": 0.1449,
+   "wattpad_ratings": 0.0706,
+   "all_supply": 0.15,
+   "all_demand": 0.134,
+   "loose_supply": 0.1431,
+   "loose_demand": 0.1522
+  },
+  "Billionaire / playboy tycoon": {
+   "goodreads_titles": 0.0689,
+   "goodreads_ratings": 0.1229,
+   "kindle_titles": 0.0494,
+   "kindle_ratings": 0.0498,
+   "wattpad_titles": 0.0588,
+   "wattpad_ratings": 0.0054,
+   "all_supply": 0.0592,
+   "all_demand": 0.0864,
+   "loose_supply": 0.0438,
+   "loose_demand": 0.0458
+  },
+  "Husband material (bachelor, widower, fiance)": {
+   "goodreads_titles": 0.0793,
+   "goodreads_ratings": 0.068,
+   "kindle_titles": 0.0812,
+   "kindle_ratings": 0.0939,
+   "wattpad_titles": 0.0403,
+   "wattpad_ratings": 0.0015,
+   "all_supply": 0.0802,
+   "all_demand": 0.081,
+   "loose_supply": 0.065,
+   "loose_demand": 0.0635
+  },
+  "Boss / workplace & celebrity crush": {
+   "goodreads_titles": 0.0921,
+   "goodreads_ratings": 0.0792,
+   "kindle_titles": 0.0671,
+   "kindle_ratings": 0.0597,
+   "wattpad_titles": 0.0705,
+   "wattpad_ratings": 0.0009,
+   "all_supply": 0.0796,
+   "all_demand": 0.0694,
+   "loose_supply": 0.0711,
+   "loose_demand": 0.0621
+  },
+  "Shifter / alpha wolf": {
+   "goodreads_titles": 0.0665,
+   "goodreads_ratings": 0.0417,
+   "kindle_titles": 0.0979,
+   "kindle_ratings": 0.0954,
+   "wattpad_titles": 0.1041,
+   "wattpad_ratings": 0.009,
+   "all_supply": 0.0822,
+   "all_demand": 0.0685,
+   "loose_supply": 0.1032,
+   "loose_demand": 0.0952
+  },
+  "Aristocrat & historical rogue": {
+   "goodreads_titles": 0.0608,
+   "goodreads_ratings": 0.0437,
+   "kindle_titles": 0.0815,
+   "kindle_ratings": 0.0807,
+   "wattpad_titles": 0.065,
+   "wattpad_ratings": 0.0405,
+   "all_supply": 0.0711,
+   "all_demand": 0.0622,
+   "loose_supply": 0.0738,
+   "loose_demand": 0.064
+  },
+  "Neighbor / tradesman / owner": {
+   "goodreads_titles": 0.0504,
+   "goodreads_ratings": 0.0632,
+   "kindle_titles": 0.043,
+   "kindle_ratings": 0.0392,
+   "wattpad_titles": 0.0185,
+   "wattpad_ratings": 0.0004,
+   "all_supply": 0.0467,
+   "all_demand": 0.0512,
+   "loose_supply": 0.0319,
+   "loose_demand": 0.0316
+  },
+  "Lawman & criminal (cop, agent, mobster)": {
+   "goodreads_titles": 0.0647,
+   "goodreads_ratings": 0.049,
+   "kindle_titles": 0.0564,
+   "kindle_ratings": 0.0471,
+   "wattpad_titles": 0.0168,
+   "wattpad_ratings": 0.0001,
+   "all_supply": 0.0605,
+   "all_demand": 0.048,
+   "loose_supply": 0.0624,
+   "loose_demand": 0.0505
+  },
+  "Vampire, demon & other supernatural": {
+   "goodreads_titles": 0.0311,
+   "goodreads_ratings": 0.0343,
+   "kindle_titles": 0.0423,
+   "kindle_ratings": 0.0505,
+   "wattpad_titles": 0.0467,
+   "wattpad_ratings": 0.0449,
+   "all_supply": 0.0367,
+   "all_demand": 0.0424,
+   "loose_supply": 0.0739,
+   "loose_demand": 0.0812
+  },
+  "Bad boy (biker, bully, jerk)": {
+   "goodreads_titles": 0.0291,
+   "goodreads_ratings": 0.044,
+   "kindle_titles": 0.0244,
+   "kindle_ratings": 0.039,
+   "wattpad_titles": 0.0218,
+   "wattpad_ratings": 0.0033,
+   "all_supply": 0.0267,
+   "all_demand": 0.0415,
+   "loose_supply": 0.0277,
+   "loose_demand": 0.0392
+  },
+  "Military & medic (SEAL, soldier, doctor)": {
+   "goodreads_titles": 0.0418,
+   "goodreads_ratings": 0.0396,
+   "kindle_titles": 0.0396,
+   "kindle_ratings": 0.0365,
+   "wattpad_titles": 0.0282,
+   "wattpad_ratings": 0.0001,
+   "all_supply": 0.0407,
+   "all_demand": 0.0381,
+   "loose_supply": 0.0503,
+   "loose_demand": 0.0454
+  },
+  "Cowboy & western lawman": {
+   "goodreads_titles": 0.0397,
+   "goodreads_ratings": 0.026,
+   "kindle_titles": 0.0405,
+   "kindle_ratings": 0.0314,
+   "wattpad_titles": 0.0103,
+   "wattpad_ratings": 0.7023,
+   "all_supply": 0.0401,
+   "all_demand": 0.0287,
+   "loose_supply": 0.0422,
+   "loose_demand": 0.0308
+  },
+  "Athlete": {
+   "goodreads_titles": 0.0248,
+   "goodreads_ratings": 0.0303,
+   "kindle_titles": 0.017,
+   "kindle_ratings": 0.0223,
+   "wattpad_titles": 0.0291,
+   "wattpad_ratings": 0.0538,
+   "all_supply": 0.0209,
+   "all_demand": 0.0263,
+   "loose_supply": 0.0174,
+   "loose_demand": 0.0232
+  },
+  "Lawyer / politician": {
+   "goodreads_titles": 0.0227,
+   "goodreads_ratings": 0.0173,
+   "kindle_titles": 0.0184,
+   "kindle_ratings": 0.0206,
+   "wattpad_titles": 0.0112,
+   "wattpad_ratings": 0.0025,
+   "all_supply": 0.0206,
+   "all_demand": 0.0189,
+   "loose_supply": 0.0212,
+   "loose_demand": 0.0208
+  },
+  "Rock star / musician": {
+   "goodreads_titles": 0.0226,
+   "goodreads_ratings": 0.0232,
+   "kindle_titles": 0.017,
+   "kindle_ratings": 0.0129,
+   "wattpad_titles": 0.0112,
+   "wattpad_ratings": 0.0005,
+   "all_supply": 0.0198,
+   "all_demand": 0.0181,
+   "loose_supply": 0.0154,
+   "loose_demand": 0.0174
+  },
+  "Professor / genius": {
+   "goodreads_titles": 0.0157,
+   "goodreads_ratings": 0.0137,
+   "kindle_titles": 0.0148,
+   "kindle_ratings": 0.0181,
+   "wattpad_titles": 0.0309,
+   "wattpad_ratings": 0.0001,
+   "all_supply": 0.0153,
+   "all_demand": 0.0159,
+   "loose_supply": 0.015,
+   "loose_demand": 0.0153
+  },
+  "Fighter / rival": {
+   "goodreads_titles": 0.012,
+   "goodreads_ratings": 0.0158,
+   "kindle_titles": 0.0099,
+   "kindle_ratings": 0.0132,
+   "wattpad_titles": 0.0035,
+   "wattpad_ratings": 0.0,
+   "all_supply": 0.011,
+   "all_demand": 0.0145,
+   "loose_supply": 0.0115,
+   "loose_demand": 0.0136
+  }
+ },
+ "stability": {
+  "Warrior / ruler (fantasy, sci-fi)": 0.56,
+  "Boss / workplace & celebrity crush": 0.49,
+  "Aristocrat & historical rogue": 0.49,
+  "Lawman & criminal (cop, agent, mobster)": 0.66,
+  "Shifter / alpha wolf": 0.59,
+  "Husband material (bachelor, widower, fiance)": 0.41,
+  "Vampire, demon & other supernatural": 0.81,
+  "Friend / ex / boy next door": 0.54,
+  "Cowboy & western lawman": 0.55,
+  "(epithets: lover, devil, bastard)": 0.41,
+  "Military & medic (SEAL, soldier, doctor)": 0.52,
+  "Professor / genius": 0.39,
+  "Billionaire / playboy tycoon": 0.69,
+  "Neighbor / tradesman / owner": 0.85,
+  "Bad boy (biker, bully, jerk)": 0.69,
+  "Lawyer / politician": 0.51,
+  "Rock star / musician": 0.85,
+  "(relatives: brother, father, son - mostly not the hero)": 0.86,
+  "Athlete": 0.95,
+  "Fighter / rival": 0.53,
+  "(misc: recluse, outsider)": 0.42,
+  "(misc: master, patron)": 0.38
+ },
+ "terms": {
+  "Warrior / ruler (fantasy, sci-fi)": [
+   "enemy",
+   "warrior",
+   "king",
+   "prince",
+   "leader",
+   "rogue",
+   "beast",
+   "alien",
+   "assassin",
+   "protector"
+  ],
+  "Boss / workplace & celebrity crush": [
+   "boss",
+   "partner",
+   "celebrity",
+   "chef",
+   "actor",
+   "hunk",
+   "director",
+   "driver",
+   "bartender",
+   "geek"
+  ],
+  "Aristocrat & historical rogue": [
+   "heir",
+   "captain",
+   "gentleman",
+   "knight",
+   "duke",
+   "pirate",
+   "viscount",
+   "rake",
+   "laird",
+   "baron"
+  ],
+  "Lawman & criminal (cop, agent, mobster)": [
+   "agent",
+   "detective",
+   "cop",
+   "criminal",
+   "bodyguard",
+   "expert",
+   "fbi agent",
+   "police officer",
+   "bounty hunter",
+   "investigator"
+  ],
+  "Shifter / alpha wolf": [
+   "shifter",
+   "alpha",
+   "wolf",
+   "werewolf",
+   "hunter",
+   "cat",
+   "dog",
+   "bear",
+   "alpha male",
+   "omega"
+  ],
+  "Husband material (bachelor, widower, fiance)": [
+   "husband",
+   "bachelor",
+   "fiance",
+   "groom",
+   "widower",
+   "fianc\u00e9",
+   "major",
+   "farmer",
+   "beau",
+   "eligible bachelor"
+  ],
+  "Vampire, demon & other supernatural": [
+   "vampire",
+   "demon",
+   "dragon",
+   "god",
+   "guardian",
+   "savior",
+   "mage",
+   "warlock",
+   "wizard",
+   "zombie"
+  ],
+  "Friend / ex / boy next door": [
+   "friend",
+   "good friend",
+   "ex",
+   "boyfriend",
+   "crush",
+   "daddy",
+   "firefighter",
+   "dad",
+   "roommate",
+   "single dad"
+  ],
+  "Cowboy & western lawman": [
+   "cowboy",
+   "sheriff",
+   "rancher",
+   "outlaw",
+   "loner",
+   "deputy",
+   "ranger",
+   "lawman",
+   "rider",
+   "marshal"
+  ],
+  "(epithets: lover, devil, bastard)": [
+   "lover",
+   "devil",
+   "bastard",
+   "saint",
+   "soulmate",
+   "snake",
+   "enigma",
+   "sinner",
+   "pig",
+   "frog"
+  ],
+  "Military & medic (SEAL, soldier, doctor)": [
+   "doctor",
+   "soldier",
+   "officer",
+   "seal",
+   "navy seal",
+   "pilot",
+   "chief",
+   "marine",
+   "lieutenant",
+   "veteran"
+  ],
+  "Professor / genius": [
+   "professor",
+   "genius",
+   "mentor",
+   "engineer",
+   "classmate",
+   "superhero",
+   "tutor",
+   "founder",
+   "idol",
+   "inventor"
+  ],
+  "Billionaire / playboy tycoon": [
+   "billionaire",
+   "playboy",
+   "businessman",
+   "ceo",
+   "millionaire",
+   "tycoon",
+   "entrepreneur",
+   "womanizer",
+   "mogul",
+   "heartbreaker"
+  ],
+  "Neighbor / tradesman / owner": [
+   "owner",
+   "neighbor",
+   "architect",
+   "contractor",
+   "new neighbor",
+   "carpenter",
+   "developer",
+   "handyman",
+   "caretaker",
+   "fixer"
+  ],
+  "Bad boy (biker, bully, jerk)": [
+   "bad boy",
+   "biker",
+   "jerk",
+   "tattooed",
+   "bully",
+   "liar",
+   "stepbrother",
+   "idiot",
+   "asshole",
+   "broody"
+  ],
+  "Lawyer / politician": [
+   "lawyer",
+   "attorney",
+   "president",
+   "con",
+   "judge",
+   "mayor",
+   "senator",
+   "politician",
+   "fraud",
+   "governor"
+  ],
+  "Rock star / musician": [
+   "rock star",
+   "musician",
+   "singer",
+   "lead singer",
+   "rock band",
+   "rockstar",
+   "rocker",
+   "drummer",
+   "guitarist",
+   "punk"
+  ],
+  "(relatives: brother, father, son - mostly not the hero)": [
+   "brother",
+   "father",
+   "son",
+   "cousin",
+   "uncle",
+   "nephew",
+   "grandfather",
+   "grandson",
+   "black sheep",
+   "stepfather"
+  ],
+  "Athlete": [
+   "player",
+   "coach",
+   "athlete",
+   "jock",
+   "quarterback",
+   "hockey player",
+   "football player",
+   "rookie",
+   "teammate",
+   "pitcher"
+  ],
+  "Fighter / rival": [
+   "fighter",
+   "rival",
+   "champion",
+   "nemesis",
+   "opponent",
+   "mma fighter",
+   "boxer",
+   "competitor"
+  ],
+  "(misc: recluse, outsider)": [
+   "outsider",
+   "recluse",
+   "shark",
+   "rescuer",
+   "surfer",
+   "hermit",
+   "fisherman",
+   "merman"
+  ],
+  "(misc: master, patron)": [
+   "master",
+   "poet",
+   "patron",
+   "scholar",
+   "collector",
+   "benefactor",
+   "sculptor"
+  ]
+ },
+ "rank_corr": {
+  "goodreads~kindle titles": 0.9422084623323013,
+  "goodreads~wattpad titles": 0.7454828045597996,
+  "goodreads~kindle ratings": 0.826625386996904,
+  "titles~ratings (goodreads)": 0.9256965944272446,
+  "strict~loose demand": 0.8802889576883385
+ },
+ "demand_no_megahits": {
+  "Aristocrat & historical rogue": 0.0712,
+  "Athlete": 0.0308,
+  "Bad boy (biker, bully, jerk)": 0.0378,
+  "Billionaire / playboy tycoon": 0.0601,
+  "Boss / workplace & celebrity crush": 0.0763,
+  "Cowboy & western lawman": 0.0308,
+  "Fighter / rival": 0.0134,
+  "Friend / ex / boy next door": 0.1462,
+  "Husband material (bachelor, widower, fiance)": 0.0755,
+  "Lawman & criminal (cop, agent, mobster)": 0.0562,
+  "Lawyer / politician": 0.0215,
+  "Military & medic (SEAL, soldier, doctor)": 0.034,
+  "Neighbor / tradesman / owner": 0.0467,
+  "Professor / genius": 0.0116,
+  "Rock star / musician": 0.0221,
+  "Shifter / alpha wolf": 0.0771,
+  "Vampire, demon & other supernatural": 0.0423,
+  "Warrior / ruler (fantasy, sci-fi)": 0.1464
+ },
+ "by_pub": {
+  "trad": {
+   "Aristocrat & historical rogue": 0.0903,
+   "Athlete": 0.0182,
+   "Bad boy (biker, bully, jerk)": 0.0164,
+   "Billionaire / playboy tycoon": 0.0801,
+   "Boss / workplace & celebrity crush": 0.08,
+   "Cowboy & western lawman": 0.0615,
+   "Fighter / rival": 0.0117,
+   "Friend / ex / boy next door": 0.1191,
+   "Husband material (bachelor, widower, fiance)": 0.0995,
+   "Lawman & criminal (cop, agent, mobster)": 0.0876,
+   "Lawyer / politician": 0.0236,
+   "Military & medic (SEAL, soldier, doctor)": 0.0526,
+   "Neighbor / tradesman / owner": 0.0499,
+   "Professor / genius": 0.0124,
+   "Rock star / musician": 0.0103,
+   "Shifter / alpha wolf": 0.04,
+   "Vampire, demon & other supernatural": 0.0272,
+   "Warrior / ruler (fantasy, sci-fi)": 0.1198
+  },
+  "self": {
+   "Aristocrat & historical rogue": 0.0599,
+   "Athlete": 0.0237,
+   "Bad boy (biker, bully, jerk)": 0.0353,
+   "Billionaire / playboy tycoon": 0.0643,
+   "Boss / workplace & celebrity crush": 0.0762,
+   "Cowboy & western lawman": 0.0334,
+   "Fighter / rival": 0.0113,
+   "Friend / ex / boy next door": 0.1613,
+   "Husband material (bachelor, widower, fiance)": 0.0697,
+   "Lawman & criminal (cop, agent, mobster)": 0.0484,
+   "Lawyer / politician": 0.0187,
+   "Military & medic (SEAL, soldier, doctor)": 0.0373,
+   "Neighbor / tradesman / owner": 0.0425,
+   "Professor / genius": 0.0148,
+   "Rock star / musician": 0.0244,
+   "Shifter / alpha wolf": 0.1046,
+   "Vampire, demon & other supernatural": 0.0383,
+   "Warrior / ruler (fantasy, sci-fi)": 0.136
+  },
+  "small": {
+   "Aristocrat & historical rogue": 0.0707,
+   "Athlete": 0.0203,
+   "Bad boy (biker, bully, jerk)": 0.0238,
+   "Billionaire / playboy tycoon": 0.0456,
+   "Boss / workplace & celebrity crush": 0.0854,
+   "Cowboy & western lawman": 0.0362,
+   "Fighter / rival": 0.0106,
+   "Friend / ex / boy next door": 0.1557,
+   "Husband material (bachelor, widower, fiance)": 0.081,
+   "Lawman & criminal (cop, agent, mobster)": 0.06,
+   "Lawyer / politician": 0.0214,
+   "Military & medic (SEAL, soldier, doctor)": 0.0384,
+   "Neighbor / tradesman / owner": 0.05,
+   "Professor / genius": 0.0172,
+   "Rock star / musician": 0.0205,
+   "Shifter / alpha wolf": 0.0777,
+   "Vampire, demon & other supernatural": 0.0387,
+   "Warrior / ruler (fantasy, sci-fi)": 0.1469
+  }
+ },
+ "blind_kmeans_ami": 0.1091198746349309,
+ "blind_kmeans_dominated": 6,
+ "trend": {
+  "goodreads_titles": {
+   "Aristocrat & historical rogue": {
+    "1980-1994": 0.1718,
+    "1995-1999": 0.1503,
+    "2000-2004": 0.105,
+    "2005-2008": 0.0765,
+    "2009-2011": 0.0588,
+    "2012-2014": 0.052,
+    "2015-2017": 0.0498
+   },
+   "Athlete": {
+    "1980-1994": 0.0022,
+    "1995-1999": 0.0183,
+    "2000-2004": 0.0084,
+    "2005-2008": 0.0153,
+    "2009-2011": 0.0215,
+    "2012-2014": 0.0245,
+    "2015-2017": 0.0348
+   },
+   "Bad boy (biker, bully, jerk)": {
+    "1980-1994": 0.0073,
+    "1995-1999": 0.0067,
+    "2000-2004": 0.0157,
+    "2005-2008": 0.0198,
+    "2009-2011": 0.0168,
+    "2012-2014": 0.0253,
+    "2015-2017": 0.038
+   },
+   "Billionaire / playboy tycoon": {
+    "1980-1994": 0.0641,
+    "1995-1999": 0.0596,
+    "2000-2004": 0.0627,
+    "2005-2008": 0.0801,
+    "2009-2011": 0.0571,
+    "2012-2014": 0.0681,
+    "2015-2017": 0.0639
+   },
+   "Boss / workplace & celebrity crush": {
+    "1980-1994": 0.094,
+    "1995-1999": 0.0532,
+    "2000-2004": 0.0825,
+    "2005-2008": 0.0924,
+    "2009-2011": 0.0933,
+    "2012-2014": 0.1016,
+    "2015-2017": 0.0934
+   },
+   "Cowboy & western lawman": {
+    "1980-1994": 0.053,
+    "1995-1999": 0.0932,
+    "2000-2004": 0.0604,
+    "2005-2008": 0.0396,
+    "2009-2011": 0.0423,
+    "2012-2014": 0.0374,
+    "2015-2017": 0.0385
+   },
+   "Fighter / rival": {
+    "1980-1994": 0.0058,
+    "1995-1999": 0.0141,
+    "2000-2004": 0.0051,
+    "2005-2008": 0.0075,
+    "2009-2011": 0.0134,
+    "2012-2014": 0.0128,
+    "2015-2017": 0.0138
+   },
+   "Friend / ex / boy next door": {
+    "1980-1994": 0.07,
+    "1995-1999": 0.0638,
+    "2000-2004": 0.105,
+    "2005-2008": 0.1315,
+    "2009-2011": 0.1673,
+    "2012-2014": 0.1766,
+    "2015-2017": 0.1691
+   },
+   "Husband material (bachelor, widower, fiance)": {
+    "1980-1994": 0.1484,
+    "1995-1999": 0.1572,
+    "2000-2004": 0.1273,
+    "2005-2008": 0.0883,
+    "2009-2011": 0.0771,
+    "2012-2014": 0.0745,
+    "2015-2017": 0.066
+   },
+   "Lawman & criminal (cop, agent, mobster)": {
+    "1980-1994": 0.0379,
+    "1995-1999": 0.0754,
+    "2000-2004": 0.0988,
+    "2005-2008": 0.1014,
+    "2009-2011": 0.0854,
+    "2012-2014": 0.0609,
+    "2015-2017": 0.0612
+   },
+   "Lawyer / politician": {
+    "1980-1994": 0.0248,
+    "1995-1999": 0.0316,
+    "2000-2004": 0.0383,
+    "2005-2008": 0.0195,
+    "2009-2011": 0.0231,
+    "2012-2014": 0.0238,
+    "2015-2017": 0.0191
+   },
+   "Military & medic (SEAL, soldier, doctor)": {
+    "1980-1994": 0.0396,
+    "1995-1999": 0.025,
+    "2000-2004": 0.051,
+    "2005-2008": 0.042,
+    "2009-2011": 0.0433,
+    "2012-2014": 0.0416,
+    "2015-2017": 0.0423
+   },
+   "Neighbor / tradesman / owner": {
+    "1980-1994": 0.0603,
+    "1995-1999": 0.0557,
+    "2000-2004": 0.05,
+    "2005-2008": 0.0523,
+    "2009-2011": 0.0538,
+    "2012-2014": 0.0541,
+    "2015-2017": 0.049
+   },
+   "Professor / genius": {
+    "1980-1994": 0.0102,
+    "1995-1999": 0.0125,
+    "2000-2004": 0.0163,
+    "2005-2008": 0.0119,
+    "2009-2011": 0.0155,
+    "2012-2014": 0.0178,
+    "2015-2017": 0.018
+   },
+   "Rock star / musician": {
+    "1980-1994": 0.0073,
+    "1995-1999": 0.0022,
+    "2000-2004": 0.0037,
+    "2005-2008": 0.0071,
+    "2009-2011": 0.0144,
+    "2012-2014": 0.028,
+    "2015-2017": 0.0281
+   },
+   "Shifter / alpha wolf": {
+    "1980-1994": 0.0328,
+    "1995-1999": 0.0291,
+    "2000-2004": 0.0308,
+    "2005-2008": 0.0444,
+    "2009-2011": 0.0568,
+    "2012-2014": 0.0583,
+    "2015-2017": 0.0627
+   },
+   "Vampire, demon & other supernatural": {
+    "1980-1994": 0.0153,
+    "1995-1999": 0.0175,
+    "2000-2004": 0.0115,
+    "2005-2008": 0.0369,
+    "2009-2011": 0.044,
+    "2012-2014": 0.0315,
+    "2015-2017": 0.0263
+   },
+   "Warrior / ruler (fantasy, sci-fi)": {
+    "1980-1994": 0.1552,
+    "1995-1999": 0.1345,
+    "2000-2004": 0.1273,
+    "2005-2008": 0.1334,
+    "2009-2011": 0.1161,
+    "2012-2014": 0.1113,
+    "2015-2017": 0.126
+   }
+  },
+  "goodreads_ratings": {
+   "Aristocrat & historical rogue": {
+    "1980-1994": 0.2498,
+    "1995-1999": 0.0963,
+    "2000-2004": 0.0744,
+    "2005-2008": 0.0437,
+    "2009-2011": 0.0335,
+    "2012-2014": 0.0292,
+    "2015-2017": 0.0452
+   },
+   "Athlete": {
+    "1980-1994": 0.0026,
+    "1995-1999": 0.1085,
+    "2000-2004": 0.0032,
+    "2005-2008": 0.0262,
+    "2009-2011": 0.0105,
+    "2012-2014": 0.0282,
+    "2015-2017": 0.0672
+   },
+   "Bad boy (biker, bully, jerk)": {
+    "1980-1994": 0.004,
+    "1995-1999": 0.0018,
+    "2000-2004": 0.0036,
+    "2005-2008": 0.1203,
+    "2009-2011": 0.0149,
+    "2012-2014": 0.0434,
+    "2015-2017": 0.0623
+   },
+   "Billionaire / playboy tycoon": {
+    "1980-1994": 0.0229,
+    "1995-1999": 0.0622,
+    "2000-2004": 0.022,
+    "2005-2008": 0.0294,
+    "2009-2011": 0.3189,
+    "2012-2014": 0.0963,
+    "2015-2017": 0.0584
+   },
+   "Boss / workplace & celebrity crush": {
+    "1980-1994": 0.0668,
+    "1995-1999": 0.1879,
+    "2000-2004": 0.077,
+    "2005-2008": 0.0426,
+    "2009-2011": 0.0645,
+    "2012-2014": 0.0986,
+    "2015-2017": 0.0775
+   },
+   "Cowboy & western lawman": {
+    "1980-1994": 0.0288,
+    "1995-1999": 0.0307,
+    "2000-2004": 0.0669,
+    "2005-2008": 0.0181,
+    "2009-2011": 0.0366,
+    "2012-2014": 0.0161,
+    "2015-2017": 0.0268
+   },
+   "Fighter / rival": {
+    "1980-1994": 0.0051,
+    "1995-1999": 0.0009,
+    "2000-2004": 0.0057,
+    "2005-2008": 0.0563,
+    "2009-2011": 0.0061,
+    "2012-2014": 0.013,
+    "2015-2017": 0.0168
+   },
+   "Friend / ex / boy next door": {
+    "1980-1994": 0.1095,
+    "1995-1999": 0.0217,
+    "2000-2004": 0.2617,
+    "2005-2008": 0.1638,
+    "2009-2011": 0.1287,
+    "2012-2014": 0.1432,
+    "2015-2017": 0.1852
+   },
+   "Husband material (bachelor, widower, fiance)": {
+    "1980-1994": 0.0996,
+    "1995-1999": 0.2488,
+    "2000-2004": 0.0967,
+    "2005-2008": 0.0827,
+    "2009-2011": 0.0437,
+    "2012-2014": 0.0549,
+    "2015-2017": 0.0614
+   },
+   "Lawman & criminal (cop, agent, mobster)": {
+    "1980-1994": 0.05,
+    "1995-1999": 0.0301,
+    "2000-2004": 0.0521,
+    "2005-2008": 0.086,
+    "2009-2011": 0.0469,
+    "2012-2014": 0.0465,
+    "2015-2017": 0.0423
+   },
+   "Lawyer / politician": {
+    "1980-1994": 0.051,
+    "1995-1999": 0.02,
+    "2000-2004": 0.0259,
+    "2005-2008": 0.0123,
+    "2009-2011": 0.0071,
+    "2012-2014": 0.019,
+    "2015-2017": 0.0257
+   },
+   "Military & medic (SEAL, soldier, doctor)": {
+    "1980-1994": 0.013,
+    "1995-1999": 0.0183,
+    "2000-2004": 0.0446,
+    "2005-2008": 0.0191,
+    "2009-2011": 0.0219,
+    "2012-2014": 0.031,
+    "2015-2017": 0.0314
+   },
+   "Neighbor / tradesman / owner": {
+    "1980-1994": 0.047,
+    "1995-1999": 0.0399,
+    "2000-2004": 0.0196,
+    "2005-2008": 0.0289,
+    "2009-2011": 0.0986,
+    "2012-2014": 0.0694,
+    "2015-2017": 0.0389
+   },
+   "Professor / genius": {
+    "1980-1994": 0.0289,
+    "1995-1999": 0.0102,
+    "2000-2004": 0.0818,
+    "2005-2008": 0.0032,
+    "2009-2011": 0.0119,
+    "2012-2014": 0.0093,
+    "2015-2017": 0.0114
+   },
+   "Rock star / musician": {
+    "1980-1994": 0.0017,
+    "1995-1999": 0.0001,
+    "2000-2004": 0.0071,
+    "2005-2008": 0.0023,
+    "2009-2011": 0.0084,
+    "2012-2014": 0.0427,
+    "2015-2017": 0.0305
+   },
+   "Shifter / alpha wolf": {
+    "1980-1994": 0.0576,
+    "1995-1999": 0.0056,
+    "2000-2004": 0.0247,
+    "2005-2008": 0.0589,
+    "2009-2011": 0.0404,
+    "2012-2014": 0.0358,
+    "2015-2017": 0.0365
+   },
+   "Vampire, demon & other supernatural": {
+    "1980-1994": 0.0051,
+    "1995-1999": 0.001,
+    "2000-2004": 0.028,
+    "2005-2008": 0.0433,
+    "2009-2011": 0.0398,
+    "2012-2014": 0.0393,
+    "2015-2017": 0.0233
+   },
+   "Warrior / ruler (fantasy, sci-fi)": {
+    "1980-1994": 0.1566,
+    "1995-1999": 0.116,
+    "2000-2004": 0.1048,
+    "2005-2008": 0.163,
+    "2009-2011": 0.0677,
+    "2012-2014": 0.1841,
+    "2015-2017": 0.1592
+   }
+  },
+  "kindle_titles": {
+   "Aristocrat & historical rogue": {
+    "2009-2011": 0.1269,
+    "2012-2014": 0.0858,
+    "2015-2017": 0.0695,
+    "2018-2020": 0.0761,
+    "2021-2023": 0.0832
+   },
+   "Athlete": {
+    "2009-2011": 0.0136,
+    "2012-2014": 0.011,
+    "2015-2017": 0.0179,
+    "2018-2020": 0.0179,
+    "2021-2023": 0.0204
+   },
+   "Bad boy (biker, bully, jerk)": {
+    "2009-2011": 0.0149,
+    "2012-2014": 0.0147,
+    "2015-2017": 0.0286,
+    "2018-2020": 0.0278,
+    "2021-2023": 0.0243
+   },
+   "Billionaire / playboy tycoon": {
+    "2009-2011": 0.0372,
+    "2012-2014": 0.052,
+    "2015-2017": 0.0624,
+    "2018-2020": 0.0432,
+    "2021-2023": 0.0428
+   },
+   "Boss / workplace & celebrity crush": {
+    "2009-2011": 0.0409,
+    "2012-2014": 0.0646,
+    "2015-2017": 0.0677,
+    "2018-2020": 0.07,
+    "2021-2023": 0.0741
+   },
+   "Cowboy & western lawman": {
+    "2009-2011": 0.0488,
+    "2012-2014": 0.0529,
+    "2015-2017": 0.043,
+    "2018-2020": 0.0364,
+    "2021-2023": 0.0299
+   },
+   "Fighter / rival": {
+    "2009-2011": 0.0082,
+    "2012-2014": 0.0113,
+    "2015-2017": 0.0102,
+    "2018-2020": 0.0093,
+    "2021-2023": 0.0104
+   },
+   "Friend / ex / boy next door": {
+    "2009-2011": 0.1037,
+    "2012-2014": 0.1226,
+    "2015-2017": 0.1386,
+    "2018-2020": 0.1502,
+    "2021-2023": 0.1644
+   },
+   "Husband material (bachelor, widower, fiance)": {
+    "2009-2011": 0.1445,
+    "2012-2014": 0.1131,
+    "2015-2017": 0.0802,
+    "2018-2020": 0.0618,
+    "2021-2023": 0.0613
+   },
+   "Lawman & criminal (cop, agent, mobster)": {
+    "2009-2011": 0.0796,
+    "2012-2014": 0.0653,
+    "2015-2017": 0.0522,
+    "2018-2020": 0.0582,
+    "2021-2023": 0.0484
+   },
+   "Lawyer / politician": {
+    "2009-2011": 0.0185,
+    "2012-2014": 0.0218,
+    "2015-2017": 0.0194,
+    "2018-2020": 0.0164,
+    "2021-2023": 0.0163
+   },
+   "Military & medic (SEAL, soldier, doctor)": {
+    "2009-2011": 0.0407,
+    "2012-2014": 0.0408,
+    "2015-2017": 0.0385,
+    "2018-2020": 0.0412,
+    "2021-2023": 0.0378
+   },
+   "Neighbor / tradesman / owner": {
+    "2009-2011": 0.0355,
+    "2012-2014": 0.0528,
+    "2015-2017": 0.043,
+    "2018-2020": 0.0409,
+    "2021-2023": 0.0404
+   },
+   "Professor / genius": {
+    "2009-2011": 0.0104,
+    "2012-2014": 0.0164,
+    "2015-2017": 0.0149,
+    "2018-2020": 0.0145,
+    "2021-2023": 0.0155
+   },
+   "Rock star / musician": {
+    "2009-2011": 0.0083,
+    "2012-2014": 0.0161,
+    "2015-2017": 0.0205,
+    "2018-2020": 0.0167,
+    "2021-2023": 0.0165
+   },
+   "Shifter / alpha wolf": {
+    "2009-2011": 0.0715,
+    "2012-2014": 0.069,
+    "2015-2017": 0.1182,
+    "2018-2020": 0.1112,
+    "2021-2023": 0.0894
+   },
+   "Vampire, demon & other supernatural": {
+    "2009-2011": 0.0438,
+    "2012-2014": 0.0521,
+    "2015-2017": 0.0356,
+    "2018-2020": 0.0404,
+    "2021-2023": 0.043
+   },
+   "Warrior / ruler (fantasy, sci-fi)": {
+    "2009-2011": 0.153,
+    "2012-2014": 0.1378,
+    "2015-2017": 0.1396,
+    "2018-2020": 0.1677,
+    "2021-2023": 0.1819
+   }
+  },
+  "kindle_ratings": {
+   "Aristocrat & historical rogue": {
+    "2009-2011": 0.163,
+    "2012-2014": 0.0627,
+    "2015-2017": 0.0825,
+    "2018-2020": 0.0695,
+    "2021-2023": 0.0814
+   },
+   "Athlete": {
+    "2009-2011": 0.0215,
+    "2012-2014": 0.0095,
+    "2015-2017": 0.0165,
+    "2018-2020": 0.0259,
+    "2021-2023": 0.0338
+   },
+   "Bad boy (biker, bully, jerk)": {
+    "2009-2011": 0.0096,
+    "2012-2014": 0.0361,
+    "2015-2017": 0.048,
+    "2018-2020": 0.0365,
+    "2021-2023": 0.0386
+   },
+   "Billionaire / playboy tycoon": {
+    "2009-2011": 0.0264,
+    "2012-2014": 0.0688,
+    "2015-2017": 0.066,
+    "2018-2020": 0.0384,
+    "2021-2023": 0.0438
+   },
+   "Boss / workplace & celebrity crush": {
+    "2009-2011": 0.0251,
+    "2012-2014": 0.0499,
+    "2015-2017": 0.0648,
+    "2018-2020": 0.0624,
+    "2021-2023": 0.0711
+   },
+   "Cowboy & western lawman": {
+    "2009-2011": 0.0238,
+    "2012-2014": 0.042,
+    "2015-2017": 0.0417,
+    "2018-2020": 0.026,
+    "2021-2023": 0.0233
+   },
+   "Fighter / rival": {
+    "2009-2011": 0.0395,
+    "2012-2014": 0.0256,
+    "2015-2017": 0.0071,
+    "2018-2020": 0.0054,
+    "2021-2023": 0.013
+   },
+   "Friend / ex / boy next door": {
+    "2009-2011": 0.0505,
+    "2012-2014": 0.1334,
+    "2015-2017": 0.1161,
+    "2018-2020": 0.1157,
+    "2021-2023": 0.1344
+   },
+   "Husband material (bachelor, widower, fiance)": {
+    "2009-2011": 0.0849,
+    "2012-2014": 0.1049,
+    "2015-2017": 0.0638,
+    "2018-2020": 0.1471,
+    "2021-2023": 0.0446
+   },
+   "Lawman & criminal (cop, agent, mobster)": {
+    "2009-2011": 0.0867,
+    "2012-2014": 0.0452,
+    "2015-2017": 0.046,
+    "2018-2020": 0.052,
+    "2021-2023": 0.0348
+   },
+   "Lawyer / politician": {
+    "2009-2011": 0.0119,
+    "2012-2014": 0.0177,
+    "2015-2017": 0.034,
+    "2018-2020": 0.0089,
+    "2021-2023": 0.0242
+   },
+   "Military & medic (SEAL, soldier, doctor)": {
+    "2009-2011": 0.0288,
+    "2012-2014": 0.0285,
+    "2015-2017": 0.0372,
+    "2018-2020": 0.0457,
+    "2021-2023": 0.0326
+   },
+   "Neighbor / tradesman / owner": {
+    "2009-2011": 0.0329,
+    "2012-2014": 0.0505,
+    "2015-2017": 0.0362,
+    "2018-2020": 0.0401,
+    "2021-2023": 0.0344
+   },
+   "Professor / genius": {
+    "2009-2011": 0.0027,
+    "2012-2014": 0.0131,
+    "2015-2017": 0.0125,
+    "2018-2020": 0.0142,
+    "2021-2023": 0.0374
+   },
+   "Rock star / musician": {
+    "2009-2011": 0.0016,
+    "2012-2014": 0.0188,
+    "2015-2017": 0.0187,
+    "2018-2020": 0.0103,
+    "2021-2023": 0.011
+   },
+   "Shifter / alpha wolf": {
+    "2009-2011": 0.0395,
+    "2012-2014": 0.0879,
+    "2015-2017": 0.1122,
+    "2018-2020": 0.0985,
+    "2021-2023": 0.0954
+   },
+   "Vampire, demon & other supernatural": {
+    "2009-2011": 0.0454,
+    "2012-2014": 0.0579,
+    "2015-2017": 0.0341,
+    "2018-2020": 0.0553,
+    "2021-2023": 0.0586
+   },
+   "Warrior / ruler (fantasy, sci-fi)": {
+    "2009-2011": 0.3063,
+    "2012-2014": 0.1475,
+    "2015-2017": 0.1625,
+    "2018-2020": 0.1482,
+    "2021-2023": 0.1875
+   }
+  }
+ },
+ "examples": {
+  "Warrior / ruler (fantasy, sci-fi)": [
+   {
+    "title": "The Selection (The Selection, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 565859,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "The Elite (The Selection, #2)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 278505,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "The One (The Selection, #3)",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 245562,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "Lover Awakened (Black Dagger Brotherhood, #3)",
+    "source": "goodreads",
+    "year": 2006,
+    "pop": 144062,
+    "terms": [
+     "savage"
+    ]
+   },
+   {
+    "title": "The Heir (The Selection, #4)",
+    "source": "goodreads",
+    "year": 2015,
+    "pop": 132588,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "Outlander (Outlander series Book 1)",
+    "source": "kindle",
+    "year": 2010,
+    "pop": 96780,
+    "terms": [
+     "warrior"
+    ]
+   },
+   {
+    "title": "Red, White & Royal Blue: A Novel",
+    "source": "kindle",
+    "year": 2019,
+    "pop": 45362,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "The Crown of Gilded Bones (Blood And Ash Series Book 3)",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 44468,
+    "terms": [
+     "prince"
+    ]
+   },
+   {
+    "title": "Rejected Revenge",
+    "source": "wattpad",
+    "year": null,
+    "pop": 3384203,
+    "terms": [
+     "king"
+    ]
+   }
+  ],
+  "Friend / ex / boy next door": [
+   {
+    "title": "The Lucky One",
+    "source": "goodreads",
+    "year": 2008,
+    "pop": 284604,
+    "terms": [
+     "good friend"
+    ]
+   },
+   {
+    "title": "The Truth About Forever",
+    "source": "goodreads",
+    "year": 2004,
+    "pop": 186040,
+    "terms": [
+     "boyfriend"
+    ]
+   },
+   {
+    "title": "Thoughtless (Thoughtless, #1)",
+    "source": "goodreads",
+    "year": 2009,
+    "pop": 124760,
+    "terms": [
+     "boyfriend",
+     "friend"
+    ]
+   },
+   {
+    "title": "Shopaholic Takes Manhattan (Shopaholic, #2)",
+    "source": "goodreads",
+    "year": 2001,
+    "pop": 101096,
+    "terms": [
+     "boyfriend"
+    ]
+   },
+   {
+    "title": "Shopaholic Ties the Knot (Shopaholic, #3)",
+    "source": "goodreads",
+    "year": 2002,
+    "pop": 94045,
+    "terms": [
+     "boyfriend"
+    ]
+   },
+   {
+    "title": "To Love Jason Thorn",
+    "source": "kindle",
+    "year": 2015,
+    "pop": 16250,
+    "terms": [
+     "crush",
+     "friend"
+    ]
+   },
+   {
+    "title": "The Cheat Sheet: A Novel",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 16091,
+    "terms": [
+     "good friend"
+    ]
+   },
+   {
+    "title": "Torn: An Age Gap Romance (All Torn Up Book 1)",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 10975,
+    "terms": [
+     "good friend"
+    ]
+   },
+   {
+    "title": "get him back! \u2501\u2501\u2501\u2501 axel kovacevic fic",
+    "source": "wattpad",
+    "year": null,
+    "pop": 78800,
+    "terms": [
+     "ex"
+    ]
+   }
+  ],
+  "Billionaire / playboy tycoon": [
+   {
+    "title": "Fifty Shades of Grey (Fifty Shades, #1)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 1447535,
+    "terms": [
+     "entrepreneur"
+    ]
+   },
+   {
+    "title": "Fifty Shades Darker (Fifty Shades, #2)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 628425,
+    "terms": [
+     "entrepreneur"
+    ]
+   },
+   {
+    "title": "Fifty Shades Trilogy (Fifty Shades, #1-3)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 102384,
+    "terms": [
+     "entrepreneur"
+    ]
+   },
+   {
+    "title": "The Marriage Bargain (Marriage to a Billionaire, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 98085,
+    "terms": [
+     "billionaire"
+    ]
+   },
+   {
+    "title": "This Man (This Man, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 86035,
+    "terms": [
+     "playboy"
+    ]
+   },
+   {
+    "title": "The Billionaire's Obsession ~ Simon (Florida Billionaires #1) (The Bil",
+    "source": "kindle",
+    "year": 2013,
+    "pop": 24873,
+    "terms": [
+     "billionaire"
+    ]
+   },
+   {
+    "title": "Things We Left Behind (Knockemout Book 3)",
+    "source": "kindle",
+    "year": 2023,
+    "pop": 20302,
+    "terms": [
+     "mogul"
+    ]
+   },
+   {
+    "title": "The Billionaire Takes All (The Sinclairs Book 5)",
+    "source": "kindle",
+    "year": 2017,
+    "pop": 10388,
+    "terms": [
+     "billionaire"
+    ]
+   },
+   {
+    "title": "His Destiny Her Love (BOOK #1) \u2714",
+    "source": "wattpad",
+    "year": null,
+    "pop": 693972,
+    "terms": [
+     "billionaire"
+    ]
+   }
+  ],
+  "Husband material (bachelor, widower, fiance)": [
+   {
+    "title": "Landline",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 126426,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Shopaholic & Baby (Shopaholic, #5)",
+    "source": "goodreads",
+    "year": 2007,
+    "pop": 104919,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Mr. Maybe",
+    "source": "goodreads",
+    "year": 1999,
+    "pop": 80273,
+    "terms": [
+     "bachelor"
+    ]
+   },
+   {
+    "title": "Lady Chatterley's Lover",
+    "source": "goodreads",
+    "year": 1959,
+    "pop": 74785,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Tara Road",
+    "source": "goodreads",
+    "year": 1999,
+    "pop": 63869,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Verity",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 285355,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Mean Streak",
+    "source": "kindle",
+    "year": 2014,
+    "pop": 15605,
+    "terms": [
+     "husband"
+    ]
+   },
+   {
+    "title": "Fall into Temptation: A Small Town Love Story (Blue Moon Book 2)",
+    "source": "kindle",
+    "year": 2019,
+    "pop": 14307,
+    "terms": [
+     "eligible bachelor"
+    ]
+   },
+   {
+    "title": "Miss Pendleton",
+    "source": "wattpad",
+    "year": null,
+    "pop": 72937,
+    "terms": [
+     "eligible bachelor"
+    ]
+   }
+  ],
+  "Boss / workplace & celebrity crush": [
+   {
+    "title": "The DUFF: Designated Ugly Fat Friend",
+    "source": "goodreads",
+    "year": 2010,
+    "pop": 150547,
+    "terms": [
+     "hottie"
+    ]
+   },
+   {
+    "title": "Beautiful Bastard (Beautiful Bastard, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 121264,
+    "terms": [
+     "boss"
+    ]
+   },
+   {
+    "title": "Jemima J",
+    "source": "goodreads",
+    "year": 1998,
+    "pop": 104394,
+    "terms": [
+     "hunk"
+    ]
+   },
+   {
+    "title": "Just One Day (Just One Day, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 68032,
+    "terms": [
+     "actor"
+    ]
+   },
+   {
+    "title": "Motorcycle Man (Dream Man, #4)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 46209,
+    "terms": [
+     "new boss"
+    ]
+   },
+   {
+    "title": "Powerless: The must-read, small-town romance and TikTok bestseller! (C",
+    "source": "kindle",
+    "year": 2023,
+    "pop": 16200,
+    "terms": [
+     "heartthrob"
+    ]
+   },
+   {
+    "title": "To Hate Adam Connor",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 10432,
+    "terms": [
+     "actor"
+    ]
+   },
+   {
+    "title": "Champagne Venom (Orlov Bratva Book 1)",
+    "source": "kindle",
+    "year": 2023,
+    "pop": 9757,
+    "terms": [
+     "boss"
+    ]
+   },
+   {
+    "title": "The Numen Chronicles | Volumes 1, 2, 3, 4, 4.5 & 5",
+    "source": "wattpad",
+    "year": null,
+    "pop": 36191,
+    "terms": [
+     "boss"
+    ]
+   }
+  ],
+  "Shifter / alpha wolf": [
+   {
+    "title": "Slave to Sensation (Psy-Changeling #1)",
+    "source": "goodreads",
+    "year": 2006,
+    "pop": 49148,
+    "terms": [
+     "hunter"
+    ]
+   },
+   {
+    "title": "Dark Side of the Moon (Dark-Hunter #9, Were-Hunter #3)",
+    "source": "goodreads",
+    "year": 2006,
+    "pop": 29673,
+    "terms": [
+     "hunter",
+     "shapeshifter"
+    ]
+   },
+   {
+    "title": "Branded by Fire (Psy-Changeling #6)",
+    "source": "goodreads",
+    "year": 2009,
+    "pop": 22619,
+    "terms": [
+     "wolf"
+    ]
+   },
+   {
+    "title": "Crush (Crush, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 22254,
+    "terms": [
+     "hunter"
+    ]
+   },
+   {
+    "title": "Almost Heaven (Sequels, #3)",
+    "source": "goodreads",
+    "year": 1990,
+    "pop": 21601,
+    "terms": [
+     "hunter"
+    ]
+   },
+   {
+    "title": "Heartless: The must-read, small-town romance and TikTok bestseller! (C",
+    "source": "kindle",
+    "year": 2023,
+    "pop": 32931,
+    "terms": [
+     "gruff"
+    ]
+   },
+   {
+    "title": "Feral Sins (The Phoenix Pack Book 1)",
+    "source": "kindle",
+    "year": 2013,
+    "pop": 13388,
+    "terms": [
+     "alpha male"
+    ]
+   },
+   {
+    "title": "Fair Game (Alpha & Omega Book 3)",
+    "source": "kindle",
+    "year": 2012,
+    "pop": 9309,
+    "terms": [
+     "alpha",
+     "son"
+    ]
+   },
+   {
+    "title": "Lunar Eclipse",
+    "source": "wattpad",
+    "year": null,
+    "pop": 215166,
+    "terms": [
+     "alpha"
+    ]
+   }
+  ],
+  "Aristocrat & historical rogue": [
+   {
+    "title": "The Bride (Lairds' Fianc\u00e9es, #1)",
+    "source": "goodreads",
+    "year": 1989,
+    "pop": 45082,
+    "terms": [
+     "baron"
+    ]
+   },
+   {
+    "title": "When He Was Wicked (Bridgertons, #6)",
+    "source": "goodreads",
+    "year": 2004,
+    "pop": 26360,
+    "terms": [
+     "earl",
+     "rake"
+    ]
+   },
+   {
+    "title": "Pucked (Pucked, #1)",
+    "source": "goodreads",
+    "year": 2015,
+    "pop": 26302,
+    "terms": [
+     "captain"
+    ]
+   },
+   {
+    "title": "Knight & Play (Knight, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 25308,
+    "terms": [
+     "knight"
+    ]
+   },
+   {
+    "title": "Hero (Hero, #1)",
+    "source": "goodreads",
+    "year": 2015,
+    "pop": 25258,
+    "terms": [
+     "knight"
+    ]
+   },
+   {
+    "title": "PUCKED (A Standalone Romantic Comedy) (The Pucked Series Book 1)",
+    "source": "kindle",
+    "year": 2015,
+    "pop": 19247,
+    "terms": [
+     "captain"
+    ]
+   },
+   {
+    "title": "Don't Kiss the Bride: An Age Gap, Marriage of Convenience Romance",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 11192,
+    "terms": [
+     "knight"
+    ]
+   },
+   {
+    "title": "The Bride (Lairds' Fiancees Book 1)",
+    "source": "kindle",
+    "year": 2011,
+    "pop": 10630,
+    "terms": [
+     "baron",
+     "laird"
+    ]
+   },
+   {
+    "title": "Siren of the Desert",
+    "source": "wattpad",
+    "year": null,
+    "pop": 5013065,
+    "terms": [
+     "bandit"
+    ]
+   }
+  ],
+  "Neighbor / tradesman / owner": [
+   {
+    "title": "Safe Haven",
+    "source": "goodreads",
+    "year": 2010,
+    "pop": 278646,
+    "terms": [
+     "owner"
+    ]
+   },
+   {
+    "title": "Slammed (Slammed, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 178694,
+    "terms": [
+     "new neighbor"
+    ]
+   },
+   {
+    "title": "Wallbanger (Cocktail, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 147392,
+    "terms": [
+     "neighbor"
+    ]
+   },
+   {
+    "title": "North and South",
+    "source": "goodreads",
+    "year": 1970,
+    "pop": 108470,
+    "terms": [
+     "owner"
+    ]
+   },
+   {
+    "title": "In Flight (Up in the Air, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 66196,
+    "terms": [
+     "owner"
+    ]
+   },
+   {
+    "title": "Clean Sweep (Innkeeper Chronicles Book 1)",
+    "source": "kindle",
+    "year": 2013,
+    "pop": 11892,
+    "terms": [
+     "new neighbor"
+    ]
+   },
+   {
+    "title": "Dirty English (British Bad Boys Book 1)",
+    "source": "kindle",
+    "year": 2015,
+    "pop": 10805,
+    "terms": [
+     "new neighbor"
+    ]
+   },
+   {
+    "title": "Part of Your World: an irresistibly hilarious and heartbreaking romant",
+    "source": "kindle",
+    "year": 2022,
+    "pop": 9903,
+    "terms": [
+     "carpenter"
+    ]
+   },
+   {
+    "title": "Billionaire's Match",
+    "source": "wattpad",
+    "year": null,
+    "pop": 45139,
+    "terms": [
+     "owner"
+    ]
+   }
+  ],
+  "Lawman & criminal (cop, agent, mobster)": [
+   {
+    "title": "The Witness",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 50731,
+    "terms": [
+     "police chief"
+    ]
+   },
+   {
+    "title": "Reaper's Property (Reapers MC, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 47347,
+    "terms": [
+     "criminal"
+    ]
+   },
+   {
+    "title": "Law Man (Dream Man, #3)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 36403,
+    "terms": [
+     "detective"
+    ]
+   },
+   {
+    "title": "Wild Man (Dream Man, #2)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 35611,
+    "terms": [
+     "agent"
+    ]
+   },
+   {
+    "title": "Hardwired (Hacker, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 29174,
+    "terms": [
+     "hacker"
+    ]
+   },
+   {
+    "title": "A Hidden Fire: An Elemental Vampire Fantasy Novel (Elemental Mysteries",
+    "source": "kindle",
+    "year": 2011,
+    "pop": 13048,
+    "terms": [
+     "dealer"
+    ]
+   },
+   {
+    "title": "The Welcoming",
+    "source": "kindle",
+    "year": 2020,
+    "pop": 12215,
+    "terms": [
+     "agent"
+    ]
+   },
+   {
+    "title": "Lover Unbound: Number 5 in series (Black Dagger Brotherhood Series)",
+    "source": "kindle",
+    "year": 2011,
+    "pop": 8762,
+    "terms": [
+     "expert"
+    ]
+   },
+   {
+    "title": "Joker och Emma - Sinful Mindplace",
+    "source": "wattpad",
+    "year": null,
+    "pop": 1783,
+    "terms": [
+     "detective"
+    ]
+   }
+  ],
+  "Vampire, demon & other supernatural": [
+   {
+    "title": "Easy (Contours of the Heart, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 192674,
+    "terms": [
+     "savior"
+    ]
+   },
+   {
+    "title": "Angels' Blood (Guild Hunter, #1)",
+    "source": "goodreads",
+    "year": 2009,
+    "pop": 59938,
+    "terms": [
+     "archangel"
+    ]
+   },
+   {
+    "title": "Archangel's Kiss (Guild Hunter, #2)",
+    "source": "goodreads",
+    "year": 2010,
+    "pop": 40346,
+    "terms": [
+     "archangel"
+    ]
+   },
+   {
+    "title": "How to Marry a Millionaire Vampire (Love at Stake, #1)",
+    "source": "goodreads",
+    "year": 2005,
+    "pop": 30085,
+    "terms": [
+     "vampire"
+    ]
+   },
+   {
+    "title": "Archangel's Consort (Guild Hunter, #3)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 29790,
+    "terms": [
+     "archangel",
+     "son"
+    ]
+   },
+   {
+    "title": "The House in the Cerulean Sea: an uplifting, heart-warming cosy fantas",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 43076,
+    "terms": [
+     "guardian"
+    ]
+   },
+   {
+    "title": "Crave: the addictive paranormal fantasy - with a bite",
+    "source": "kindle",
+    "year": 2020,
+    "pop": 23923,
+    "terms": [
+     "vampire"
+    ]
+   },
+   {
+    "title": "The Thief: A Novel of the Black Dagger Brotherhood",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 11001,
+    "terms": [
+     "vampire"
+    ]
+   },
+   {
+    "title": "Lost | Tom Riddle \u2714",
+    "source": "wattpad",
+    "year": null,
+    "pop": 5597303,
+    "terms": [
+     "god"
+    ]
+   }
+  ],
+  "Bad boy (biker, bully, jerk)": [
+   {
+    "title": "Just Listen",
+    "source": "goodreads",
+    "year": 2005,
+    "pop": 210162,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "Perfect Chemistry (Perfect Chemistry, #1)",
+    "source": "goodreads",
+    "year": 2008,
+    "pop": 208551,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "Down to You (The Bad Boys, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 62857,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "Driven (Driven, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 45496,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "If You Stay (Beautifully Broken, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 33462,
+    "terms": [
+     "tattooed"
+    ]
+   },
+   {
+    "title": "Pretend You're Mine: A Small Town Love Story (Benevolence Book 1)",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 27226,
+    "terms": [
+     "broody"
+    ]
+   },
+   {
+    "title": "Consider Me (Playing For Keeps Book 1)",
+    "source": "kindle",
+    "year": 2022,
+    "pop": 23093,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "Country Heaven (Dare River Book 1)",
+    "source": "kindle",
+    "year": 2014,
+    "pop": 19258,
+    "terms": [
+     "bad boy"
+    ]
+   },
+   {
+    "title": "Dorm Room 214",
+    "source": "wattpad",
+    "year": null,
+    "pop": 89244,
+    "terms": [
+     "bad boy"
+    ]
+   }
+  ],
+  "Military & medic (SEAL, soldier, doctor)": [
+   {
+    "title": "Persuasion",
+    "source": "goodreads",
+    "year": 1964,
+    "pop": 406694,
+    "terms": [
+     "officer"
+    ]
+   },
+   {
+    "title": "Ugly Love",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 120066,
+    "terms": [
+     "pilot"
+    ]
+   },
+   {
+    "title": "The Bronze Horseman (The Bronze Horseman, #1)",
+    "source": "goodreads",
+    "year": 2000,
+    "pop": 49605,
+    "terms": [
+     "officer"
+    ]
+   },
+   {
+    "title": "Dreams of a Dark Warrior (Immortals After Dark #11)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 30734,
+    "terms": [
+     "soldier"
+    ]
+   },
+   {
+    "title": "Unbeautifully (Undeniable, #2)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 29023,
+    "terms": [
+     "sergeant"
+    ]
+   },
+   {
+    "title": "Time's Convert: A Novel",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 22443,
+    "terms": [
+     "surgeon"
+    ]
+   },
+   {
+    "title": "One Fell Sweep (Innkeeper Chronicles Book 3)",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 11347,
+    "terms": [
+     "sergeant"
+    ]
+   },
+   {
+    "title": "Persuasion",
+    "source": "kindle",
+    "year": 2017,
+    "pop": 11181,
+    "terms": [
+     "officer"
+    ]
+   },
+   {
+    "title": "\ud835\udfcf\ud835\udfd7\ud835\udfd2\ud835\udfd4 \uff1a\ud835\udc6c\ud835\udc8c \ud835\udc91\ud835\udc93\ud835\udc86\ud835\udc8e \ud835\udc8c\ud835\udc82\ud835\udc95\ud835\udc89\ud835\udc82 \u2713",
+    "source": "wattpad",
+    "year": null,
+    "pop": 7968,
+    "terms": [
+     "officer"
+    ]
+   }
+  ],
+  "Cowboy & western lawman": [
+   {
+    "title": "Along for the Ride",
+    "source": "goodreads",
+    "year": 2009,
+    "pop": 159869,
+    "terms": [
+     "loner"
+    ]
+   },
+   {
+    "title": "Dance Upon the Air (Three Sisters Island, #1)",
+    "source": "goodreads",
+    "year": 2001,
+    "pop": 54867,
+    "terms": [
+     "sheriff"
+    ]
+   },
+   {
+    "title": "Midnight Bayou",
+    "source": "goodreads",
+    "year": 2001,
+    "pop": 26913,
+    "terms": [
+     "maverick"
+    ]
+   },
+   {
+    "title": "Play It Safe",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 15831,
+    "terms": [
+     "cowboy"
+    ]
+   },
+   {
+    "title": "The Ideal Man (Buchanan-Renard, #9)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 13025,
+    "terms": [
+     "lawman"
+    ]
+   },
+   {
+    "title": "Taming Him: A Small Town Cowboy Romance (Bishop Brothers Book 1)",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 5463,
+    "terms": [
+     "cowboy"
+    ]
+   },
+   {
+    "title": "Keeping Denver",
+    "source": "kindle",
+    "year": 2020,
+    "pop": 5372,
+    "terms": [
+     "hawk"
+    ]
+   },
+   {
+    "title": "Turbulent Desires (Billionaire Aviators Book 2)",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 4881,
+    "terms": [
+     "maverick"
+    ]
+   },
+   {
+    "title": "Lilah",
+    "source": "wattpad",
+    "year": null,
+    "pop": 97388447,
+    "terms": [
+     "loner"
+    ]
+   }
+  ],
+  "Athlete": [
+   {
+    "title": "The Mistake (Off-Campus, #2)",
+    "source": "goodreads",
+    "year": 2015,
+    "pop": 45125,
+    "terms": [
+     "player"
+    ]
+   },
+   {
+    "title": "Love Story (Love Story, #1)",
+    "source": "goodreads",
+    "year": 1970,
+    "pop": 44765,
+    "terms": [
+     "jock"
+    ]
+   },
+   {
+    "title": "Play with Me (With Me in Seattle, #3)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 34808,
+    "terms": [
+     "football player",
+     "jock"
+    ]
+   },
+   {
+    "title": "When It Happens",
+    "source": "goodreads",
+    "year": 2008,
+    "pop": 33871,
+    "terms": [
+     "jock"
+    ]
+   },
+   {
+    "title": "Nobody's Baby But Mine (Chicago Stars, #3)",
+    "source": "goodreads",
+    "year": 1997,
+    "pop": 29163,
+    "terms": [
+     "quarterback"
+    ]
+   },
+   {
+    "title": "Beauty and the Baller (Strangers in Love)",
+    "source": "kindle",
+    "year": 2022,
+    "pop": 17881,
+    "terms": [
+     "coach"
+    ]
+   },
+   {
+    "title": "Not My Romeo (The Game Changers Book 1)",
+    "source": "kindle",
+    "year": 2020,
+    "pop": 16758,
+    "terms": [
+     "quarterback"
+    ]
+   },
+   {
+    "title": "Puck Me Secretly (A Vancouver Wolves Hockey Romance Book 1)",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 14015,
+    "terms": [
+     "hockey player"
+    ]
+   },
+   {
+    "title": "\ud835\udc12\ud835\udc30\ud835\udc1e\ud835\udc1e\ud835\udc2d \ud835\udc04\ud835\udc27\ud835\udc2f\ud835\udc32",
+    "source": "wattpad",
+    "year": null,
+    "pop": 34518,
+    "terms": [
+     "jock"
+    ]
+   }
+  ],
+  "Lawyer / politician": [
+   {
+    "title": "Vicious (Sinners of Saint, #1)",
+    "source": "goodreads",
+    "year": 2016,
+    "pop": 19138,
+    "terms": [
+     "lawyer"
+    ]
+   },
+   {
+    "title": "Ricochet",
+    "source": "goodreads",
+    "year": 2006,
+    "pop": 14902,
+    "terms": [
+     "judge"
+    ]
+   },
+   {
+    "title": "Dragon's Lair (Wind Dragons MC, #1)",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 14762,
+    "terms": [
+     "brother",
+     "vice president"
+    ]
+   },
+   {
+    "title": "Knights' Sinner (The MC Sinners, #3)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 12222,
+    "terms": [
+     "president"
+    ]
+   },
+   {
+    "title": "Kaleidoscope",
+    "source": "goodreads",
+    "year": 1987,
+    "pop": 11794,
+    "terms": [
+     "lawyer"
+    ]
+   },
+   {
+    "title": "Friction",
+    "source": "kindle",
+    "year": 2015,
+    "pop": 16938,
+    "terms": [
+     "judge"
+    ]
+   },
+   {
+    "title": "Under One Roof",
+    "source": "kindle",
+    "year": 2022,
+    "pop": 13056,
+    "terms": [
+     "lawyer"
+    ]
+   },
+   {
+    "title": "Under One Roof: From the bestselling author of The Love Hypothesis",
+    "source": "kindle",
+    "year": 2022,
+    "pop": 13043,
+    "terms": [
+     "lawyer"
+    ]
+   },
+   {
+    "title": "The Girl and the Clock Tower Murder: Pandemonium Book #2",
+    "source": "wattpad",
+    "year": null,
+    "pop": 1468,
+    "terms": [
+     "president"
+    ]
+   }
+  ],
+  "Rock star / musician": [
+   {
+    "title": "Because of Low (Sea Breeze, #2)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 51102,
+    "terms": [
+     "rock star"
+    ]
+   },
+   {
+    "title": "Devoured (Devoured, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 35671,
+    "terms": [
+     "rock star"
+    ]
+   },
+   {
+    "title": "Music of the Heart (Runaway Train, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 34136,
+    "terms": [
+     "lead singer"
+    ]
+   },
+   {
+    "title": "Try Me (One Night with Sole Regret, #1)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 22438,
+    "terms": [
+     "drummer"
+    ]
+   },
+   {
+    "title": "Double Time (Sinners on Tour, #5)",
+    "source": "goodreads",
+    "year": 2012,
+    "pop": 22304,
+    "terms": [
+     "guitarist"
+    ]
+   },
+   {
+    "title": "The Billionaire's Secrets (The Sinclairs Book 6)",
+    "source": "kindle",
+    "year": 2017,
+    "pop": 9671,
+    "terms": [
+     "rock star"
+    ]
+   },
+   {
+    "title": "The Chocolate Garden (Dare River Book 2)",
+    "source": "kindle",
+    "year": 2014,
+    "pop": 7154,
+    "terms": [
+     "rock star"
+    ]
+   },
+   {
+    "title": "A Village Romance: A funny, compassionate and sizzling sexy summer rea",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 4711,
+    "terms": [
+     "rock star"
+    ]
+   },
+   {
+    "title": "So I Married A Rockstar - Season 3",
+    "source": "wattpad",
+    "year": null,
+    "pop": 44340,
+    "terms": [
+     "rockstar"
+    ]
+   }
+  ],
+  "Professor / genius": [
+   {
+    "title": "The Guardian",
+    "source": "goodreads",
+    "year": 2003,
+    "pop": 144056,
+    "terms": [
+     "engineer"
+    ]
+   },
+   {
+    "title": "Maitreyi",
+    "source": "goodreads",
+    "year": 1993,
+    "pop": 11695,
+    "terms": [
+     "engineer"
+    ]
+   },
+   {
+    "title": "The Perfect Match (Blue Heron, #2)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 10777,
+    "terms": [
+     "professor"
+    ]
+   },
+   {
+    "title": "Never Judge a Lady by Her Cover (The Rules of Scoundrels, #4)",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 10125,
+    "terms": [
+     "founder"
+    ]
+   },
+   {
+    "title": "Of Course I Love You...! Till I Find Someone Better...",
+    "source": "goodreads",
+    "year": 2009,
+    "pop": 9613,
+    "terms": [
+     "genius"
+    ]
+   },
+   {
+    "title": "The Love Hypothesis",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 60868,
+    "terms": [
+     "professor"
+    ]
+   },
+   {
+    "title": "Summer Lake Romance Boxed Set (Books 1-3) (Summer Lake Romance Boxset ",
+    "source": "kindle",
+    "year": 2016,
+    "pop": 12448,
+    "terms": [
+     "genius"
+    ]
+   },
+   {
+    "title": "The Plastic Magician (A Paper Magician Novel)",
+    "source": "kindle",
+    "year": 2018,
+    "pop": 10404,
+    "terms": [
+     "inventor"
+    ]
+   },
+   {
+    "title": "That's Rich",
+    "source": "wattpad",
+    "year": null,
+    "pop": 4062,
+    "terms": [
+     "classmate"
+    ]
+   }
+  ],
+  "Fighter / rival": [
+   {
+    "title": "Lover Eternal (Black Dagger Brotherhood, #2)",
+    "source": "goodreads",
+    "year": 2006,
+    "pop": 148747,
+    "terms": [
+     "fighter"
+    ]
+   },
+   {
+    "title": "The Will (Magdalene, #1)",
+    "source": "goodreads",
+    "year": 2014,
+    "pop": 23090,
+    "terms": [
+     "boxer"
+    ]
+   },
+   {
+    "title": "Truce (Neighbor from Hell, #4)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 21730,
+    "terms": [
+     "nemesis"
+    ]
+   },
+   {
+    "title": "Defying the Odds (Battered Hearts, #1)",
+    "source": "goodreads",
+    "year": 2011,
+    "pop": 16486,
+    "terms": [
+     "fighter"
+    ]
+   },
+   {
+    "title": "Torn from You (Tear Asunder, #1)",
+    "source": "goodreads",
+    "year": 2013,
+    "pop": 14752,
+    "terms": [
+     "fighter"
+    ]
+   },
+   {
+    "title": "The Sun Also Rises",
+    "source": "kindle",
+    "year": 2021,
+    "pop": 13540,
+    "terms": [
+     "boxer"
+    ]
+   },
+   {
+    "title": "Lover Eternal: Number 2 in series (Black Dagger Brotherhood Series)",
+    "source": "kindle",
+    "year": 2011,
+    "pop": 11426,
+    "terms": [
+     "fighter"
+    ]
+   },
+   {
+    "title": "Lover Revealed (Black Dagger Brotherhood, Book 4)",
+    "source": "kindle",
+    "year": 2007,
+    "pop": 8724,
+    "terms": [
+     "fighter"
+    ]
+   },
+   {
+    "title": "All The Ways You Loved Me Anyway",
+    "source": "wattpad",
+    "year": null,
+    "pop": 58,
+    "terms": [
+     "rival"
+    ]
+   }
+  ]
+ },
+ "folk": {
+  "vampire": {
+   "titles": 0.0168,
+   "ratings": 0.0144,
+   "rank_titles": 12.0,
+   "rank_ratings": 14.0,
+   "cluster": "Vampire, demon & other supernatural"
+  },
+  "werewolf": {
+   "titles": 0.0083,
+   "ratings": 0.0046,
+   "rank_titles": 36.0,
+   "rank_ratings": 54.0,
+   "cluster": "Shifter / alpha wolf"
+  },
+  "billionaire": {
+   "titles": 0.0239,
+   "ratings": 0.0188,
+   "rank_titles": 8.0,
+   "rank_ratings": 10.0,
+   "cluster": "Billionaire / playboy tycoon"
+  },
+  "surgeon": {
+   "titles": 0.0032,
+   "ratings": 0.0019,
+   "rank_titles": 84.0,
+   "rank_ratings": 121.0,
+   "cluster": "Military & medic (SEAL, soldier, doctor)"
+  },
+  "pirate": {
+   "titles": 0.0021,
+   "ratings": 0.0009,
+   "rank_titles": 128.5,
+   "rank_ratings": 188.0,
+   "cluster": "Aristocrat & historical rogue"
+  }
+ },
+ "top_terms": [
+  {
+   "terms": "prince",
+   "titles": 0.0533,
+   "ratings": 0.0747,
+   "rank_titles": 2.0,
+   "rank_ratings": 1.0
+  },
+  {
+   "terms": "good friend",
+   "titles": 0.0581,
+   "ratings": 0.0586,
+   "rank_titles": 1.0,
+   "rank_ratings": 2.0
+  },
+  {
+   "terms": "entrepreneur",
+   "titles": 0.0032,
+   "ratings": 0.053,
+   "rank_titles": 82.5,
+   "rank_ratings": 3.0
+  },
+  {
+   "terms": "husband",
+   "titles": 0.0402,
+   "ratings": 0.0436,
+   "rank_titles": 4.0,
+   "rank_ratings": 4.0
+  },
+  {
+   "terms": "friend",
+   "titles": 0.0465,
+   "ratings": 0.0415,
+   "rank_titles": 3.0,
+   "rank_ratings": 5.0
+  },
+  {
+   "terms": "boyfriend",
+   "titles": 0.0258,
+   "ratings": 0.0395,
+   "rank_titles": 7.0,
+   "rank_ratings": 6.0
+  },
+  {
+   "terms": "owner",
+   "titles": 0.0263,
+   "ratings": 0.0338,
+   "rank_titles": 6.0,
+   "rank_ratings": 7.0
+  },
+  {
+   "terms": "bad boy",
+   "titles": 0.0151,
+   "ratings": 0.0305,
+   "rank_titles": 13.0,
+   "rank_ratings": 8.0
+  },
+  {
+   "terms": "king",
+   "titles": 0.0366,
+   "ratings": 0.0266,
+   "rank_titles": 5.0,
+   "rank_ratings": 9.0
+  },
+  {
+   "terms": "billionaire",
+   "titles": 0.0239,
+   "ratings": 0.0188,
+   "rank_titles": 8.0,
+   "rank_ratings": 10.0
+  },
+  {
+   "terms": "boss",
+   "titles": 0.0196,
+   "ratings": 0.018,
+   "rank_titles": 11.0,
+   "rank_ratings": 11.0
+  },
+  {
+   "terms": "hunter",
+   "titles": 0.0212,
+   "ratings": 0.0177,
+   "rank_titles": 9.0,
+   "rank_ratings": 12.0
+  },
+  {
+   "terms": "warrior",
+   "titles": 0.0085,
+   "ratings": 0.0159,
+   "rank_titles": 31.5,
+   "rank_ratings": 13.0
+  },
+  {
+   "terms": "vampire",
+   "titles": 0.0168,
+   "ratings": 0.0144,
+   "rank_titles": 12.0,
+   "rank_ratings": 14.0
+  },
+  {
+   "terms": "officer",
+   "titles": 0.0056,
+   "ratings": 0.0136,
+   "rank_titles": 50.0,
+   "rank_ratings": 15.0
+  },
+  {
+   "terms": "player",
+   "titles": 0.0098,
+   "ratings": 0.0129,
+   "rank_titles": 28.0,
+   "rank_ratings": 16.0
+  },
+  {
+   "terms": "neighbor",
+   "titles": 0.0116,
+   "ratings": 0.0126,
+   "rank_titles": 19.0,
+   "rank_ratings": 17.0
+  },
+  {
+   "terms": "fighter",
+   "titles": 0.0034,
+   "ratings": 0.0111,
+   "rank_titles": 76.5,
+   "rank_ratings": 18.0
+  },
+  {
+   "terms": "businessman",
+   "titles": 0.0098,
+   "ratings": 0.0108,
+   "rank_titles": 27.0,
+   "rank_ratings": 19.0
+  },
+  {
+   "terms": "playboy",
+   "titles": 0.0108,
+   "ratings": 0.0107,
+   "rank_titles": 24.0,
+   "rank_ratings": 20.0
+  },
+  {
+   "terms": "shifter",
+   "titles": 0.0208,
+   "ratings": 0.0106,
+   "rank_titles": 10.0,
+   "rank_ratings": 21.0
+  },
+  {
+   "terms": "cop",
+   "titles": 0.0096,
+   "ratings": 0.0104,
+   "rank_titles": 30.0,
+   "rank_ratings": 22.0
+  },
+  {
+   "terms": "leader",
+   "titles": 0.0107,
+   "ratings": 0.0099,
+   "rank_titles": 25.0,
+   "rank_ratings": 23.0
+  },
+  {
+   "terms": "duke",
+   "titles": 0.0128,
+   "ratings": 0.0098,
+   "rank_titles": 16.0,
+   "rank_ratings": 24.0
+  },
+  {
+   "terms": "actor",
+   "titles": 0.0085,
+   "ratings": 0.0098,
+   "rank_titles": 31.5,
+   "rank_ratings": 25.0
+  }
+ ],
+ "folk_coverage_titles": 0.054004926526798606,
+ "folk_coverage_ratings": 0.0202740860479525,
+ "folk_clusters_demand": 0.2975643068423588,
+ "ao3": {
+  "n": 1451498,
+  "share_of_works": {
+   "Warrior / ruler (fantasy, sci-fi)": 0.0269,
+   "Boss / workplace & celebrity crush": 0.0395,
+   "Aristocrat & historical rogue": 0.0106,
+   "Lawman & criminal (cop, agent, mobster)": 0.0103,
+   "Shifter / alpha wolf": 0.0488,
+   "Husband material (bachelor, widower, fiance)": 0.0101,
+   "Vampire, demon & other supernatural": 0.039,
+   "Friend / ex / boy next door": 0.0746,
+   "Cowboy & western lawman": 0.0035,
+   "Military & medic (SEAL, soldier, doctor)": 0.0095,
+   "Professor / genius": 0.0054,
+   "Billionaire / playboy tycoon": 0.0011,
+   "Neighbor / tradesman / owner": 0.0024,
+   "Bad boy (biker, bully, jerk)": 0.0307,
+   "Lawyer / politician": 0.0215,
+   "Rock star / musician": 0.0026,
+   "Athlete": 0.003,
+   "Fighter / rival": 0.0023
+  },
+  "share_among_matched": {
+   "Warrior / ruler (fantasy, sci-fi)": 0.0787,
+   "Boss / workplace & celebrity crush": 0.1155,
+   "Aristocrat & historical rogue": 0.0311,
+   "Lawman & criminal (cop, agent, mobster)": 0.0301,
+   "Shifter / alpha wolf": 0.1428,
+   "Husband material (bachelor, widower, fiance)": 0.0295,
+   "Vampire, demon & other supernatural": 0.114,
+   "Friend / ex / boy next door": 0.2183,
+   "Cowboy & western lawman": 0.0103,
+   "Military & medic (SEAL, soldier, doctor)": 0.0279,
+   "Professor / genius": 0.0158,
+   "Billionaire / playboy tycoon": 0.0031,
+   "Neighbor / tradesman / owner": 0.0069,
+   "Bad boy (biker, bully, jerk)": 0.0897,
+   "Lawyer / politician": 0.0629,
+   "Rock star / musician": 0.0077,
+   "Athlete": 0.0089,
+   "Fighter / rival": 0.0067
+  },
+  "folk": {
+   "vampire": 0.00970514599400068,
+   "werewolf": 0.002596627759735115,
+   "billionaire": 8.956264493647252e-05,
+   "surgeon": 8.956264493647252e-05,
+   "pirate": 0.002141236157404282
+  },
+  "trend": {
+   "2009-2013": {
+    "Warrior / ruler (fantasy, sci-fi)": 0.1259,
+    "Boss / workplace & celebrity crush": 0.1191,
+    "Aristocrat & historical rogue": 0.0323,
+    "Lawman & criminal (cop, agent, mobster)": 0.0383,
+    "Shifter / alpha wolf": 0.09,
+    "Husband material (bachelor, widower, fiance)": 0.0283,
+    "Vampire, demon & other supernatural": 0.162,
+    "Friend / ex / boy next door": 0.1912,
+    "Cowboy & western lawman": 0.008,
+    "Military & medic (SEAL, soldier, doctor)": 0.057,
+    "Professor / genius": 0.0174,
+    "Billionaire / playboy tycoon": 0.0015,
+    "Neighbor / tradesman / owner": 0.0026,
+    "Bad boy (biker, bully, jerk)": 0.0253,
+    "Lawyer / politician": 0.0863,
+    "Rock star / musician": 0.0096,
+    "Athlete": 0.0012,
+    "Fighter / rival": 0.0038
+   },
+   "2014-2018": {
+    "Warrior / ruler (fantasy, sci-fi)": 0.092,
+    "Boss / workplace & celebrity crush": 0.1136,
+    "Aristocrat & historical rogue": 0.0566,
+    "Lawman & criminal (cop, agent, mobster)": 0.0417,
+    "Shifter / alpha wolf": 0.0912,
+    "Husband material (bachelor, widower, fiance)": 0.0337,
+    "Vampire, demon & other supernatural": 0.1225,
+    "Friend / ex / boy next door": 0.2296,
+    "Cowboy & western lawman": 0.0102,
+    "Military & medic (SEAL, soldier, doctor)": 0.045,
+    "Professor / genius": 0.0175,
+    "Billionaire / playboy tycoon": 0.0031,
+    "Neighbor / tradesman / owner": 0.0087,
+    "Bad boy (biker, bully, jerk)": 0.0507,
+    "Lawyer / politician": 0.0646,
+    "Rock star / musician": 0.0107,
+    "Athlete": 0.0045,
+    "Fighter / rival": 0.0043
+   },
+   "2022-2025": {
+    "Warrior / ruler (fantasy, sci-fi)": 0.0719,
+    "Boss / workplace & celebrity crush": 0.1162,
+    "Aristocrat & historical rogue": 0.0223,
+    "Lawman & criminal (cop, agent, mobster)": 0.0258,
+    "Shifter / alpha wolf": 0.1629,
+    "Husband material (bachelor, widower, fiance)": 0.0279,
+    "Vampire, demon & other supernatural": 0.1095,
+    "Friend / ex / boy next door": 0.2152,
+    "Cowboy & western lawman": 0.0103,
+    "Military & medic (SEAL, soldier, doctor)": 0.0213,
+    "Professor / genius": 0.015,
+    "Billionaire / playboy tycoon": 0.0031,
+    "Neighbor / tradesman / owner": 0.0065,
+    "Bad boy (biker, bully, jerk)": 0.1054,
+    "Lawyer / politician": 0.0617,
+    "Rock star / musician": 0.0066,
+    "Athlete": 0.0107,
+    "Fighter / rival": 0.0077
+   }
+  }
+ },
+ "term_trend": {
+  "goodreads": {
+   "1980-1994": {
+    "vampire": 0.5,
+    "werewolf": 0.5,
+    "billionaire": 2.4,
+    "surgeon": 4.8,
+    "pirate": 15.7,
+    "shifter": 0.0,
+    "alpha": 0.3,
+    "duke": 10.6,
+    "cowboy": 10.1,
+    "navy seal": 0.0,
+    "bad boy": 1.6,
+    "hockey player": 0.0,
+    "alien": 0.3,
+    "dragon": 4.0,
+    "king": 19.1,
+    "prince": 16.5,
+    "mobster": 0.0,
+    "doctor": 10.4,
+    "single dad": 0.5,
+    "rock star": 0.5,
+    "ceo": 1.1,
+    "boss": 8.0,
+    "bully": 0.5
+   },
+   "1995-1999": {
+    "vampire": 3.6,
+    "werewolf": 0.3,
+    "billionaire": 2.0,
+    "surgeon": 4.0,
+    "pirate": 6.6,
+    "shifter": 0.0,
+    "alpha": 0.3,
+    "duke": 10.9,
+    "cowboy": 24.5,
+    "navy seal": 3.3,
+    "bad boy": 4.6,
+    "hockey player": 0.0,
+    "alien": 1.0,
+    "dragon": 2.0,
+    "king": 17.2,
+    "prince": 15.9,
+    "mobster": 0.7,
+    "doctor": 16.2,
+    "single dad": 1.0,
+    "rock star": 1.7,
+    "ceo": 2.6,
+    "boss": 11.6,
+    "bully": 1.0
+   },
+   "2000-2004": {
+    "vampire": 9.7,
+    "werewolf": 3.4,
+    "billionaire": 5.6,
+    "surgeon": 4.4,
+    "pirate": 6.8,
+    "shifter": 0.8,
+    "alpha": 3.2,
+    "duke": 9.3,
+    "cowboy": 15.1,
+    "navy seal": 3.6,
+    "bad boy": 10.9,
+    "hockey player": 0.2,
+    "alien": 1.4,
+    "dragon": 1.8,
+    "king": 18.9,
+    "prince": 19.1,
+    "mobster": 3.0,
+    "doctor": 17.9,
+    "single dad": 3.6,
+    "rock star": 1.2,
+    "ceo": 3.0,
+    "boss": 12.7,
+    "bully": 1.4
+   },
+   "2005-2008": {
+    "vampire": 37.5,
+    "werewolf": 13.4,
+    "billionaire": 13.3,
+    "surgeon": 4.7,
+    "pirate": 6.3,
+    "shifter": 6.6,
+    "alpha": 9.0,
+    "duke": 8.4,
+    "cowboy": 18.0,
+    "navy seal": 3.1,
+    "bad boy": 12.2,
+    "hockey player": 0.2,
+    "alien": 2.7,
+    "dragon": 8.7,
+    "king": 18.4,
+    "prince": 23.5,
+    "mobster": 1.5,
+    "doctor": 14.0,
+    "single dad": 2.7,
+    "rock star": 2.3,
+    "ceo": 3.0,
+    "boss": 14.4,
+    "bully": 1.0
+   },
+   "2009-2011": {
+    "vampire": 42.2,
+    "werewolf": 19.8,
+    "billionaire": 10.9,
+    "surgeon": 4.3,
+    "pirate": 6.5,
+    "shifter": 19.2,
+    "alpha": 14.1,
+    "duke": 6.8,
+    "cowboy": 24.4,
+    "navy seal": 3.8,
+    "bad boy": 10.1,
+    "hockey player": 1.0,
+    "alien": 4.0,
+    "dragon": 7.1,
+    "king": 17.6,
+    "prince": 21.8,
+    "mobster": 1.5,
+    "doctor": 18.3,
+    "single dad": 3.3,
+    "rock star": 3.3,
+    "ceo": 3.9,
+    "boss": 15.2,
+    "bully": 1.7
+   },
+   "2012-2014": {
+    "vampire": 27.9,
+    "werewolf": 16.8,
+    "billionaire": 21.6,
+    "surgeon": 3.7,
+    "pirate": 5.6,
+    "shifter": 19.0,
+    "alpha": 19.8,
+    "duke": 5.8,
+    "cowboy": 21.2,
+    "navy seal": 4.4,
+    "bad boy": 16.5,
+    "hockey player": 1.7,
+    "alien": 3.3,
+    "dragon": 6.8,
+    "king": 16.4,
+    "prince": 17.1,
+    "mobster": 1.3,
+    "doctor": 14.9,
+    "single dad": 2.2,
+    "rock star": 7.2,
+    "ceo": 6.6,
+    "boss": 14.8,
+    "bully": 2.1
+   },
+   "2015-2017": {
+    "vampire": 15.1,
+    "werewolf": 11.3,
+    "billionaire": 26.6,
+    "surgeon": 3.4,
+    "pirate": 5.0,
+    "shifter": 25.2,
+    "alpha": 28.4,
+    "duke": 7.3,
+    "cowboy": 21.3,
+    "navy seal": 6.8,
+    "bad boy": 24.4,
+    "hockey player": 3.1,
+    "alien": 4.7,
+    "dragon": 10.4,
+    "king": 20.3,
+    "prince": 19.5,
+    "mobster": 2.2,
+    "doctor": 16.6,
+    "single dad": 3.9,
+    "rock star": 8.9,
+    "ceo": 7.5,
+    "boss": 18.6,
+    "bully": 2.3
+   },
+   "all_years_ratings_permille": {
+    "vampire": 38.7,
+    "werewolf": 8.9,
+    "billionaire": 14.2,
+    "surgeon": 4.4,
+    "pirate": 3.4,
+    "shifter": 7.3,
+    "alpha": 13.9,
+    "duke": 5.8,
+    "cowboy": 8.8,
+    "navy seal": 3.8,
+    "bad boy": 25.6,
+    "hockey player": 1.9,
+    "alien": 1.9,
+    "dragon": 5.2,
+    "king": 15.0,
+    "prince": 27.0,
+    "mobster": 1.7,
+    "doctor": 9.6,
+    "single dad": 1.6,
+    "rock star": 11.6,
+    "ceo": 3.5,
+    "boss": 12.0,
+    "bully": 1.2
+   }
+  },
+  "kindle": {
+   "2009-2011": {
+    "vampire": 62.0,
+    "werewolf": 26.4,
+    "billionaire": 4.9,
+    "surgeon": 3.1,
+    "pirate": 9.7,
+    "shifter": 15.2,
+    "alpha": 13.4,
+    "duke": 15.7,
+    "cowboy": 24.0,
+    "navy seal": 4.4,
+    "bad boy": 5.7,
+    "hockey player": 0.3,
+    "alien": 6.3,
+    "dragon": 9.1,
+    "king": 28.3,
+    "prince": 24.9,
+    "mobster": 1.1,
+    "doctor": 15.9,
+    "single dad": 1.3,
+    "rock star": 1.9,
+    "ceo": 2.9,
+    "boss": 13.1,
+    "bully": 0.8
+   },
+   "2012-2014": {
+    "vampire": 58.9,
+    "werewolf": 29.2,
+    "billionaire": 19.6,
+    "surgeon": 3.7,
+    "pirate": 9.0,
+    "shifter": 23.9,
+    "alpha": 29.3,
+    "duke": 11.6,
+    "cowboy": 23.2,
+    "navy seal": 3.9,
+    "bad boy": 10.6,
+    "hockey player": 0.6,
+    "alien": 5.0,
+    "dragon": 11.0,
+    "king": 27.6,
+    "prince": 18.6,
+    "mobster": 1.4,
+    "doctor": 17.4,
+    "single dad": 1.9,
+    "rock star": 4.6,
+    "ceo": 4.4,
+    "boss": 12.6,
+    "bully": 0.9
+   },
+   "2015-2017": {
+    "vampire": 37.8,
+    "werewolf": 23.9,
+    "billionaire": 36.9,
+    "surgeon": 2.3,
+    "pirate": 6.9,
+    "shifter": 71.3,
+    "alpha": 61.5,
+    "duke": 10.1,
+    "cowboy": 25.7,
+    "navy seal": 7.8,
+    "bad boy": 20.3,
+    "hockey player": 1.5,
+    "alien": 12.2,
+    "dragon": 26.7,
+    "king": 26.7,
+    "prince": 21.2,
+    "mobster": 1.7,
+    "doctor": 16.2,
+    "single dad": 1.9,
+    "rock star": 6.2,
+    "ceo": 5.3,
+    "boss": 17.1,
+    "bully": 1.9
+   },
+   "2018-2020": {
+    "vampire": 39.2,
+    "werewolf": 16.9,
+    "billionaire": 30.3,
+    "surgeon": 3.0,
+    "pirate": 6.8,
+    "shifter": 68.1,
+    "alpha": 67.1,
+    "duke": 12.2,
+    "cowboy": 18.6,
+    "navy seal": 6.8,
+    "bad boy": 16.2,
+    "hockey player": 1.9,
+    "alien": 14.7,
+    "dragon": 35.2,
+    "king": 33.2,
+    "prince": 26.6,
+    "mobster": 1.9,
+    "doctor": 15.3,
+    "single dad": 5.4,
+    "rock star": 5.9,
+    "ceo": 5.6,
+    "boss": 18.3,
+    "bully": 6.1
+   },
+   "2021-2023": {
+    "vampire": 37.7,
+    "werewolf": 16.4,
+    "billionaire": 32.3,
+    "surgeon": 2.4,
+    "pirate": 6.0,
+    "shifter": 60.0,
+    "alpha": 55.1,
+    "duke": 13.2,
+    "cowboy": 18.3,
+    "navy seal": 6.6,
+    "bad boy": 12.9,
+    "hockey player": 4.3,
+    "alien": 13.4,
+    "dragon": 26.7,
+    "king": 36.0,
+    "prince": 25.2,
+    "mobster": 3.1,
+    "doctor": 15.9,
+    "single dad": 7.2,
+    "rock star": 4.4,
+    "ceo": 5.6,
+    "boss": 22.1,
+    "bully": 5.7
+   },
+   "all_years_ratings_permille": {
+    "vampire": 46.6,
+    "werewolf": 20.9,
+    "billionaire": 38.1,
+    "surgeon": 3.1,
+    "pirate": 5.3,
+    "shifter": 63.4,
+    "alpha": 71.8,
+    "duke": 16.4,
+    "cowboy": 20.1,
+    "navy seal": 9.5,
+    "bad boy": 22.3,
+    "hockey player": 7.5,
+    "alien": 13.8,
+    "dragon": 28.6,
+    "king": 38.8,
+    "prince": 25.6,
+    "mobster": 1.9,
+    "doctor": 13.0,
+    "single dad": 8.3,
+    "rock star": 5.0,
+    "ceo": 7.0,
+    "boss": 20.4,
+    "bully": 5.4
+   }
+  }
+ }
+}
